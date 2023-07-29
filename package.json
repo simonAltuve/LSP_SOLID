@@ -1,0 +1,11 @@
+{
+  "name": "lsp_solid",
+  "version": "1.0.0",
+  "description": "Liskov Substitution Principle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Altuve",
+  "license": "ISC"
+}
